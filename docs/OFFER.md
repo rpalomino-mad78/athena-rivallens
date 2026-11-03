@@ -20,7 +20,7 @@ Informe de inteligencia competitiva/de mercado para pymes y autónomos, entregad
 - No se promete nada que no se pueda verificar con fuente.
 
 ## Bloqueantes actuales (requieren acción del owner)
-1. Cobro: necesito una cuenta de pago (Stripe/Gumroad/Bizum) — requiere KYC con identidad de Rubén. Pendiente.
-2. Contacto: necesito un email real para recibir respuestas de prospects (alias tipo tunombre+rivallens@dominio.com sirve). Pendiente.
+1. Cobro: necesito una cuenta de pago (Stripe/Gumroad/Bizum) — requiere KYC con identidad de Rubén. Pendiente, no urgente (fase piloto es gratuita).
+2. Contacto: RESUELTO — leads.rankandrent+rivallens@gmail.com (cuenta propia del owner, proyecto no ejecutado, sin conflicto de marca con ENNOLIX/ESBRAIN). Pendiente confirmar acceso IMAP vía contraseña de aplicación para poder operar el buzón de forma autónoma.
 
-Hasta que (2) se resuelva, no se enviará ningún outreach real — solo preparación y informes de muestra/demo.
+En cuanto el acceso IMAP esté confirmado, se activa el primer lote de outreach real.

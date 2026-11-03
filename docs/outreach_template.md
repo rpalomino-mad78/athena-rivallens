@@ -1,6 +1,6 @@
 # RivalLens — Plantilla de outreach (piloto gratuito)
 
-**Estado: NO ENVIAR TODAVÍA — falta email de contacto real (ver OFFER.md bloqueante #2)**
+**Estado: email de contacto confirmado — leads.rankandrent+rivallens@gmail.com (proyecto "rankandrent" del owner, nunca ejecutado, sin conflicto de marca). Pendiente solo confirmar acceso IMAP (contraseña de aplicación) antes de enviar el primer outreach real.**
 
 ## Asunto
 Informe gratuito de tu competencia (sin compromiso) — [nombre negocio]
